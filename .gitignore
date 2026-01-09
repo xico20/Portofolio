@@ -1,0 +1,20 @@
+
+# Dependências e builds
+node_modules/
+dist/
+coverage/
+
+# Cache do gh-pages
+node_modules/.cache/
+.cache/
+
+# Logs e artefactos
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# SO / Editor
+.DS_Store
+Thumbs.db
+.vscode/
